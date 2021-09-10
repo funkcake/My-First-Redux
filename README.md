@@ -1,2 +1,2 @@
-# My first Redux
+# My First Redux
 this is my first redux project
